@@ -81,7 +81,7 @@ A modern, gamified budget tracking application designed specifically for college
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Vulture404/chillarparty)
    cd aura-budget
    \`\`\`
 
@@ -130,24 +130,43 @@ npm start
 
 \`\`\`
 aura-budget/
+
 ├── app/                    # Next.js App Router
+
 │   ├── layout.tsx         # Root layout with fonts
+
 │   ├── page.tsx           # Main application entry
+
 │   └── globals.css        # Global styles and design tokens
+
 ├── components/            # React components
+
 │   ├── ui/               # Reusable UI components
+
 │   ├── dashboard.tsx     # Main dashboard
+
 │   ├── budget-cards.tsx  # Budget display
+
 │   ├── expense-form.tsx  # Expense entry
+
 │   ├── expense-list.tsx  # Expense management
+
 │   ├── aura-points.tsx   # Points and streaks
+
 │   ├── leaderboard.tsx   # Rankings display
+
 │   └── saving-tips.tsx   # Student tips
+
 ├── lib/                  # Utility functions
+
 │   ├── auth.ts          # Authentication logic
+
 │   ├── gamification.ts  # Points and ranking system
+
 │   └── utils.ts         # Helper functions
+
 └── README.md            # Project documentation
+
 \`\`\`
 
 ## 🤝 Contributing
