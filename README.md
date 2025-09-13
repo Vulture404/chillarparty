@@ -1,4 +1,5 @@
-# 🌟 Aura Budget - Gamified Budget Tracker for Students
+# 🌟 Aura Budget - Gamified Budget Tracker for Students 
+Link - https://v0-aura-budget-app.vercel.app/
 
 A modern, gamified budget tracking application designed specifically for college students at Manipal University. Track expenses, manage budgets, earn Aura Points, and compete with friends while developing healthy financial habits.
 
